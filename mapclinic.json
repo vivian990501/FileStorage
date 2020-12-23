@@ -5,12 +5,12 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [45.619937, -122.524313]
+        "coordinates": [45.618813, -122.538562]
       },
       "properties": {
         "id": 1,
-        "name": "Molecular Testing Labs",
-        "site": "14401 SE 1st St, Vancouver, WA 98684美國"
+        "name": "FAMILY CARE & URGENT MEDICAL CLINICS",
+        "site": "406 SE 131st Ave #101a, Vancouver, WA 98683美國"
       }
     },
     {
@@ -61,17 +61,17 @@
         "site": "12607 SE Mill Plain Blvd, Vancouver, WA 98684美國"
       }
     },
-        {
+    {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [45.618813, -122.538562]
+        "coordinates": [45.619937, -122.524313]
       },
       "properties": {
         "id": 6,
-        "name": "FAMILY CARE & URGENT MEDICAL CLINICS",
-        "site": "406 SE 131st Ave #101a, Vancouver, WA 98683美國"
+        "name": "Molecular Testing Labs",
+        "site": "14401 SE 1st St, Vancouver, WA 98684美國"
       }
-    },
+    }
   ]
 }

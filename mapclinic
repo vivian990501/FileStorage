@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [45.618813, -122.538562]
+      },
+      "properties": {
+        "id": 1,
+        "name": "FAMILY CARE & URGENT MEDICAL CLINICS",
+        "site": "406 SE 131st Ave #101a, Vancouver, WA 98683美國"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [45.619438, -122.534688]
+      },
+      "properties": {
+        "id": 2,
+        "name": "Providence Medical Group - Mill Plain",
+        "site": "315 SE Stone Mill Dr #102, Vancouver, WA 98684美國"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [45.621688, -122.535687]
+      },
+      "properties": {
+        "id": 3,
+        "name": "Everest Student Clinic",
+        "site": "120 NE 136th Ave #220, Vancouver, WA 98684美國"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [45.620562, -122.537813]
+      },
+      "properties": {
+        "id": 4,
+        "name": "Kaiser Permanente Mill Plain One Medical Office",
+        "site": "203 SE Park Plaza Dr #140, Vancouver, WA 98684美國"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [45.620562, -122.537813]
+      },
+      "properties": {
+        "id": 5,
+        "name": "Kaiser Permanente Cascade Park Medical Office",
+        "site": "12607 SE Mill Plain Blvd, Vancouver, WA 98684美國"
+      }
+    }
+  ]
+}

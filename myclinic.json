@@ -1,0 +1,17 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [45.619937, -122.524313]
+      },
+      "properties": {
+        "id": 1,
+        "name": "Molecular Testing Labs",
+        "site": "14401 SE 1st St, Vancouver, WA 98684美國"
+      }
+    }
+  ]
+}
